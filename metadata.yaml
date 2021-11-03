@@ -1,0 +1,5 @@
+homepage: "https://github.com/turingdigital-analytics/DataLayer-Push-Custom-Event"
+documentation: "https://github.com/turingdigital-analytics/DataLayer-Push-Custom-Event/blob/main/README.md"
+versions:
+  - sha: 985bbe544e5d497445d48f7a5eddc6021cda8e88
+    changeNotes: Initial release.
